@@ -1,0 +1,80 @@
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\bin\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\bin\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.csproj.AssemblyReference.cache
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.AddClientForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.AddSongForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.EditClientForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.CategorySongsForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.SongsForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.EditSongForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.ClientsForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.Music_Library.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.CategoriesForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.AddSongInCategoryForm.resources
+C:\Users\gabit\Desktop\proiect paw\ProiectPAW\obj\Debug\ProiectPAW.CategorySongsForm2.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.exe.config
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.AssemblyReference.cache
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddClientForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddSongForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddSongInCategoryForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategoriesForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategorySongsForm2.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.EditSongForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.ClientsForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.EditClientForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.Music_Library.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategorySongsForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.SongsForm.resources
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\Proiect PAW\ProiectPAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.exe.config
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.AssemblyReference.cache
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddClientForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddSongForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddSongInCategoryForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategoriesForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategorySongsForm2.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.EditSongForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.ClientsForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.EditClientForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.Music_Library.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategorySongsForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.SongsForm.resources
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.exe.config
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\bin\Debug\ProiectPAW.pdb
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.AssemblyReference.cache
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddClientForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddSongForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.AddSongInCategoryForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategoriesForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategorySongsForm2.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.EditSongForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.ClientsForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.EditClientForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.Music_Library.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.Properties.Resources.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.CategorySongsForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.SongsForm.resources
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.exe
+C:\Users\gabit\Desktop\Facultate\Anul 2\Semestrul 2\PAW\Proiect PAW\Proiect PAW Onicală Mircea Gabriel\obj\Debug\ProiectPAW.pdb
