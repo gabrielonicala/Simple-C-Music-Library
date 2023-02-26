@@ -1,6 +1,6 @@
 # Simple C# Music Library
 
-This C# app is aimed to simulate a music library. 
+This C# app is aimed to help mangaging an online music library. 
 
 By using the app, one can browse through the default songs the library contains, as well as edit them, delete them, add new songs and even export and import them through binary files.
 
